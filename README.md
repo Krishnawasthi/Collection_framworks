@@ -79,3 +79,12 @@ and these special users will put in a container(collection), and bank will notif
 
 Collection-framework helps us to store class and objects, and there are some functionalities which are common so it also helps to reuse the existing functionalities and also helps to implements specific requirements.
 
+So somebody will develop the common requirement, what is required here.
+On top of that,You put some custom requirement, what you have.
+On top of this, they will put custom fields.
+So, there will be many frameworks when we move forward, okay? So, before Java 2, 1.2. they (classes and interface were not have any common functionality.)
+So, from Java 1.2,
+## They said(java developers), let's come up with the Collect some framework. they introduced collection framework in java 1.2)
+And provide some common functionalities.
+Like, if you want to add element to array, to add method developed.
+Same method developed, add in list, set also.
