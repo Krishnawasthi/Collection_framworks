@@ -69,3 +69,8 @@ Correct? Yes. Okay? So whenever you log into Yono, there will be…all are your 
 
 <img width="864" height="319" alt="image" src="https://github.com/user-attachments/assets/3c813f02-0124-438f-adac-c00179d80fd0" />
 
+Here is the lots of SBI customer, Bank has the information of each user like(name, AccNO., balance, email and mobile number).
+Rule in the bank is that customer should have minimum 1000 rupees in their bank account. 
+bank will put the query select * from users Balance < 1000.
+and these special users will put in a container(collection), and bank will notify them to manage their balance.
+
