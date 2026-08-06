@@ -31,10 +31,14 @@ Now, when time comes to search maths book.
 You keep on learning, sometimes you go to kitchen, sometimes I kept there, I kept here.
 Then you start blaming others, right?
 Okay.
+
+
 there is the lot if problem in that. 
 You will keep all the book in one shelf.
 the bookshelf, you'll keep all the bookshelf. Now, what is the advantage of this approach?
 Easy. If somebody wants… To find some book, they'll directly access this.
+
+
 They're directly Access,
 Understood, So, what advantage we are getting?
 Instead of searching the book in the entire house, you just go and search inside bookshelf.
@@ -52,6 +56,8 @@ how do I organize?
 Okay, so far you have not only any object, right?
 So, for what you're doing, you're creating object, you're just accessing that object.
 Now, what is the need of organizing object?
+
+
 Let's say you are a SBI customer.
 When you open SBI account, What… what detail you will provide?
 name
@@ -60,3 +66,6 @@ address… Some other information, right?
 Now, definitely in SBI backend system, there will be class for USer
 User will have this attribute.
 Correct? Yes. Okay? So whenever you log into Yono, there will be…all are your account details.
+
+<img width="864" height="319" alt="image" src="https://github.com/user-attachments/assets/3c813f02-0124-438f-adac-c00179d80fd0" />
+
