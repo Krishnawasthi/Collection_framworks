@@ -88,3 +88,5 @@ So, from Java 1.2,
 And provide some common functionalities.
 Like, if you want to add element to array, to add method developed.
 Same method developed, add in list, set also.
+
+<img width="846" height="358" alt="image" src="https://github.com/user-attachments/assets/db34febd-832c-4104-b2d6-4a67b68989d8" />
