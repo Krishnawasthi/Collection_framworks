@@ -74,3 +74,8 @@ Rule in the bank is that customer should have minimum 1000 rupees in their bank 
 bank will put the query select * from users Balance < 1000.
 and these special users will put in a container(collection), and bank will notify them to manage their balance.
 
+
+<img width="827" height="271" alt="image" src="https://github.com/user-attachments/assets/ae118498-3487-420a-bafc-cc6cc980446a" />
+
+Collection-framework helps us to store class and objects, and there are some functionalities which are common so it also helps to reuse the existing functionalities and also helps to implements specific requirements.
+
