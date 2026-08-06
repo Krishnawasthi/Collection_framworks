@@ -2,6 +2,9 @@
 
 ## container
 
+<img width="759" height="315" alt="image" src="https://github.com/user-attachments/assets/5d0b9053-f8de-4b7f-bacd-5c69a371f1f2" />
+
+
 What is the advantage of containers? Here, in this case. Here, you're having the group of fruits, group of the apples.
 But what is the advantage here? Why do we store something in basket?
 Easy to? Easy to Access And safe.
