@@ -99,6 +99,7 @@ means int(primitive) --> Integer (to store number) class will used in collection
 <img width="802" height="440" alt="image" src="https://github.com/user-attachments/assets/6e20b886-db73-41cf-80f4-c3c8e4270027" />
 
 <img width="539" height="345" alt="image" src="https://github.com/user-attachments/assets/46816064-190e-4bc5-b297-873db28ef29a" />
+### > Array is index based used to store data in contiguous manner and index are directly mapped with memory address.
 
 
 <img width="885" height="450" alt="image" src="https://github.com/user-attachments/assets/f939aef5-8857-4781-a745-357a892a9c96" />
