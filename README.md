@@ -90,3 +90,10 @@ Like, if you want to add element to array, to add method developed.
 Same method developed, add in list, set also.
 
 <img width="846" height="358" alt="image" src="https://github.com/user-attachments/assets/db34febd-832c-4104-b2d6-4a67b68989d8" />
+
+collection of classes will only store objects, firstly. Now, if I want to store number, how will I store? I'll have it.
+So for all the primitive.
+There will be equivalent class which represent the object.
+means int(primitive) --> Integer (to store number) class will used in collection that is also called wrapper class.
+
+<img width="802" height="440" alt="image" src="https://github.com/user-attachments/assets/6e20b886-db73-41cf-80f4-c3c8e4270027" />
