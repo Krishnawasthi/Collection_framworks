@@ -97,3 +97,6 @@ There will be equivalent class which represent the object.
 means int(primitive) --> Integer (to store number) class will used in collection that is also called wrapper class.
 
 <img width="802" height="440" alt="image" src="https://github.com/user-attachments/assets/6e20b886-db73-41cf-80f4-c3c8e4270027" />
+
+<img width="885" height="596" alt="image" src="https://github.com/user-attachments/assets/f939aef5-8857-4781-a745-357a892a9c96" />
+
