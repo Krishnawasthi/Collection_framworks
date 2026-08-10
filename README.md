@@ -4,7 +4,7 @@
 
 <img width="759" height="315" alt="image" src="https://github.com/user-attachments/assets/5d0b9053-f8de-4b7f-bacd-5c69a371f1f2" />
 
-<img width="721" height="268" alt="image" src="https://github.com/user-attachments/assets/25ca0b7b-d473-497a-b6e5-39e12731a0f8" />
+
 
 What is the advantage of containers? Here, in this case. Here, you're having the group of fruits, group of the apples.
 But what is the advantage here? Why do we store something in basket?
@@ -77,7 +77,7 @@ and these special users will put in a container(collection), and bank will notif
 
 
 <img width="827" height="271" alt="image" src="https://github.com/user-attachments/assets/ae118498-3487-420a-bafc-cc6cc980446a" />
-
+<img width="721" height="268" alt="image" src="https://github.com/user-attachments/assets/25ca0b7b-d473-497a-b6e5-39e12731a0f8" />
 Collection-framework helps us to store class and objects, and there are some functionalities which are common so it also helps to reuse the existing functionalities and also helps to implements specific requirements.
 
 So somebody will develop the common requirement, what is required here.
