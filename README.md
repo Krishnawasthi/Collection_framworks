@@ -106,4 +106,7 @@ means int(primitive) --> Integer (to store number) class will used in collection
 
 <img width="900" height="376" alt="image" src="https://github.com/user-attachments/assets/d994fd85-086e-4d74-a36e-78ec5ed3c7a8" />
 
+### collection framework mainly consisted >>>>
+
+<img width="988" height="193" alt="image" src="https://github.com/user-attachments/assets/b8884d81-1b35-4141-884b-bd0e8dc39bc4" />
 
