@@ -4,6 +4,7 @@
 
 <img width="759" height="315" alt="image" src="https://github.com/user-attachments/assets/5d0b9053-f8de-4b7f-bacd-5c69a371f1f2" />
 
+<img width="837" height="280" alt="image" src="https://github.com/user-attachments/assets/a3da8c5e-ba11-4f45-800a-8ba266afac2b" />
 
 
 What is the advantage of containers? Here, in this case. Here, you're having the group of fruits, group of the apples.
